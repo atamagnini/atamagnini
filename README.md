@@ -1,16 +1,17 @@
-## Hi there 👋
+##  🌟 Hi, I’m Antonela Tamagnini
 
-<!--
-**atamagnini/atamagnini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Fulbright Scholar pursuing a Master’s in Computer Science at Worcester Polytechnic Institute.
 
-Here are some ideas to get you started:
+🚀 Passionate about software development, cloud computing, and creating impactful solutions through data-driven insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills: React, AWS, Python, R, SQL, DevOps.
+
+🌍 Experience in web development, machine learning, and data visualization.
+
+💡 Creator of innovative projects like:
+
+  - 🌐 [Auction House System (React, AWS, RDS)](https://github.com/brianEtrials/team-bars-lisp-auction-house)
+  - 📊 [Animal Adventure (Data visualization platform hosted on GitHub Pages)](https://github.com/gbenderiya/DataViz_project)
+  - 💾 Database solutions for health and education
+
+📌 Explore my [repositories](https://github.com/atamagnini?tab=repositories) for projects at the intersection of technology and problem-solving.
