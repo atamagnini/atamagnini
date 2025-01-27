@@ -8,7 +8,7 @@
 
 🌍 Experience in web development, machine learning, and data visualization.
 
-💡 Creator of innovative projects like:
+💡 Contributor to innovative projects like:
 
   - 🌐 [Auction House System (An online auction system built with React, AWS, and RDS)](https://github.com/brianEtrials/team-bars-lisp-auction-house)
   - 📊 [Animal Adventure (A platform to explore and visualize animal data using interactive charts)](https://github.com/gbenderiya/DataViz_project)
