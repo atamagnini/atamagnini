@@ -6,7 +6,7 @@
 
 🔧 Skills: React, AWS, Python, R, SQL, DevOps.
 
-🌍 Experience in web development, machine learning, and data visualization.
+🌍 Experience in software development, machine learning, and data visualization.
 
 💡 Contributor to innovative projects like:
 
