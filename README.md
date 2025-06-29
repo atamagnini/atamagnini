@@ -16,8 +16,5 @@
   
   💻 [Auction House System – An online auction platform built with React, AWS, and RDS to support user bidding and item management.](https://github.com/brianEtrials/team-bars-lisp-auction-house)
 
-    🌐 AgroTrace360 – A cloud-based crop traceability platform using React, AWS Lambda, S3, and PostgreSQL for real-time field data and treatment tracking.
-    🧠 Advancing Automated ECG Interpretation – A deep learning pipeline for classifying ECG abnormalities using CNNs and signal preprocessing techniques.
-    💻 Auction House System – An online auction platform built with React, AWS, and RDS to support user bidding and item management.
 
 📌 Explore my [portfolio](https://github.com/atamagnini/portfolio) for projects at the intersection of technology and problem-solving.
