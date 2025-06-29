@@ -2,7 +2,7 @@
 
 👩‍💻 Fulbright Scholar with a Master’s in Computer Science from Worcester Polytechnic Institute.
 
-🚀 Passionate about software development, cloud computing, and building impactful AI-powered solutions.
+Passionate about software development, cloud computing, and building impactful AI-powered solutions.
 
 🔧 Skills: React, AWS, Python, R, SQL, DevOps, Machine Learning, Deep Learning.
 
